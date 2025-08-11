@@ -14,6 +14,7 @@ The dashboard was developed as part of the TripleTen Data Analytics Bootcamp (Sp
 2. **Trend History (%)** – Stacked area chart displaying the percentage share of each category over time, with the Y-axis ranging from 0% to 100%.
 3. **Trending Videos by Country** – Pie chart illustrating the distribution of trending videos among the top 5 countries.
 4. **Trending Videos by Country and Category** – Table showing a cross-analysis between categories (rows) and countries (columns), where each cell contains the total count of trending videos.
+- The dashboard also includes a date selector and a country list filter, allowing users to customize the data view according to specific time periods and regions.
 
 ---
 
