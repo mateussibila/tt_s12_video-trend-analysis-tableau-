@@ -5,7 +5,7 @@ This project analyzes YouTube trending videos data to identify which categories 
 
 The dashboard was developed as part of the TripleTen Data Analytics Bootcamp (Sprint 12) and is fully interactive, allowing filtering by date and region.
 
-🔗 **View the interactive dashboard:** [Tableau Public Link](https://tableaupublic.com/...)
+🔗 **View the interactive dashboard:** [Tableau Public link](https://public.tableau.com/app/profile/mateus.romano/viz/TT_S12/Dashboard).
 
 ---
 
