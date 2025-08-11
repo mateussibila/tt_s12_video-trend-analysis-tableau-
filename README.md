@@ -33,14 +33,14 @@ The dashboard was developed as part of the TripleTen Data Analytics Bootcamp (Sp
 
 ## 📂 Repository Structure
 
-video-trend-analysis-tableau/
-│
-├── README.md
-├── report.pdf
-├── trending_by_time.csv
-├── dashboard-screenshot.png
-├── dashboard.twbx
-└── additional-images/
+video-trend-analysis-tableau/  
+│  
+├── README.md  
+├── report.pdf  
+├── trending_by_time.csv  
+├── dashboard-screenshot.png  
+├── dashboard.twbx  
+└── additional-images/  
 
 ---
 
@@ -55,3 +55,4 @@ This project is for educational purposes only and uses publicly available data.
 
 
 
+ 
