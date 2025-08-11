@@ -38,9 +38,7 @@ video-trend-analysis-tableau/
 ├── README.md  
 ├── report.pdf  
 ├── trending_by_time.csv  
-├── dashboard-screenshot.png  
-├── dashboard.twbx  
-└── additional-images/  
+└── dashboard-screenshot.png  
 
 ---
 
